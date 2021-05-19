@@ -20,4 +20,4 @@ function calcDivisor(n) {
 }
 
 let divCount = calcDivisor(100);
-console.log(`약수의 개수: ${divCount}`)
+console.log(`약수의 개수: ${divCount}개`);
